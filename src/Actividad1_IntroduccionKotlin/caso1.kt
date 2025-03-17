@@ -1,3 +1,5 @@
+package Actividad1_IntroduccionKotlin
+
 fun main(){
     println("Ingrese Puntuación:")
     val puntuacion = readln().toInt()

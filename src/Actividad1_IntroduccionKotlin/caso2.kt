@@ -1,3 +1,5 @@
+package Actividad1_IntroduccionKotlin
+
 import kotlin.random.Random
 
 fun main() {
